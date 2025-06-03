@@ -1,0 +1,1 @@
+# b2cred-template
